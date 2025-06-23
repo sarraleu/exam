@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>la moyene est ${m}</h1>
+        <h1>la moyene est comm  ${m}</h1>
     </body>
 </html>
